@@ -1,0 +1,176 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.full{
+    height: 600px;
+    width: 1200px;
+    background-color: aqua;
+}
+.onerow{
+    height: 100px;
+    width: 1200px;
+    background-color: rgb(12, 48, 94);
+    
+}
+.onecol{
+    height: 100px;
+    width: 600px;
+    background-color: rgb(204, 94, 86);
+    float: left;
+}
+.twocol{
+    height: 100px;
+    width: 200px;
+    background-color: blue;
+    float: left;
+}
+.rowtwo{
+    height: 100px;
+    width: 1200px;
+    background-color: pink;
+}
+.colone{
+    height: 100px;
+    width: 300px;
+    background-color: rgb(44, 103, 212);
+    float: left;
+}
+.coltwo{
+    height: 100px;
+    width: 300px;
+    background-color: rgb(238, 235, 68);
+    float: left;
+}
+.coltwo_row{
+    height: 50px;
+    width: 300px;
+    background-color: aqua;
+}
+.colthree{
+    height: 100px;
+    width: 200px;
+    background-color: blue;
+    float: left;
+}
+.colfour{
+    height: 100px;
+    width: 200px;
+    background-color: rgb(88, 32, 32);
+    float: left;
+}
+.colfourrow{
+    height: 50px;
+    width: 200px;
+    background-color:brown ;
+}
+.colfourrowone{
+    height: 50px;
+    width: 100px;
+    background-color: aqua;
+}
+.rowthree{
+    height: 100px;
+    width: 1200px;
+    background-color: rgb(186, 226, 43);
+}
+.rowthreecolone{
+    height: 100px;
+    width: 400px;
+    background-color: red;
+    float: left;
+}
+.rowthreecoltwo{
+    height: 100px;
+    width: 100px;
+    background-color: hwb(61 68% 0%);
+    float: left;
+    
+}
+.rowthreecolthree{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(174, 209, 255);
+    float: left;
+}
+.rowthreecolfour{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(97, 150, 141);
+    float: left;
+}
+.rowthreecolfive{
+    height: 100px;
+    width: 130px;
+    background-color: rgb(161, 30, 179);
+    float: left;
+}
+.rowfour{
+    height: 100px;
+    width: 1200px;
+    background-color: orange;
+}
+.rowfourcolone{
+    height: 100px;
+    width: 400px;
+    background-color: orangered;
+    float: left;
+}
+.rowfourcoltwo{
+    height: 100px;
+    width: 100px;
+    background-color:  hwb(61 68% 0%);
+    float: left;
+}
+.rowfourcolthree{
+    height: 100px;
+    width: 200px;
+    background-color: indigo;
+    float: left;
+}
+.rowfourcolfour{
+    height: 100px;
+    width: 130px;
+    background-color: rgb(161, 30, 179);
+    float: left;
+}
+.rowfive{
+    height: 100px;
+    width: 1200px;
+    background-color: rgb(156, 226, 43);
+}
+.rowfivecolone{
+    height: 100px;
+    width: 600px;
+    background-color: rgb(235, 93, 152);
+    float: left;
+}
+.rowfivecoltwo{
+    height: 100px;
+    width: 300px;
+    background-color: blueviolet;
+    float: left;
+}
+.rowfivecolthree{
+    height: 50px;
+    width: 300px;
+    background-color: rgba(52, 7, 255, 0.801);
+    float: left;
+}
+.rowfivecolfour{
+    height: 100px;
+    width: 150px;
+    background-color: rgb(255, 7, 7);
+   
+}
+.rowrowcolsix{
+    height: 50px;
+    width: 300px;
+    background-color: rgb(23, 7, 255);
+   
+}
+.rowend{
+    height: 100px;
+    width: 600px;
+    background-color: rgb(243, 81, 22);
+}
